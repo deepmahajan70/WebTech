@@ -45,3 +45,6 @@ body {
 .bottom{
   margin-bottom: 10px;
 }
+.mb-4{
+  border-right: 10;
+}
